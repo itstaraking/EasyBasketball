@@ -3,8 +3,8 @@ Basketball is a sport game beloved by many. It is no wonder that basketball shoo
 
 ### Here is a snippet of the code 
 
-![EasyBasketballCode](https://itstaraking.github.io/EasyBasketball/easybasketballcode.png)
+![EasyBasketballCode](https://itstaraking.github.io/EasyBasketball/easybasketabllcode.png)
 
 ### Here is the output...
 
-![EasyBasketballOutput](https://itstaraking.github.io/Pong/easybasketball.gif)
+![EasyBasketballOutput](https://itstaraking.github.io/EasyBasketball/easybasketball.gif)
