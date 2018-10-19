@@ -1,5 +1,5 @@
 # Easy Basketball
-Basketball is a sport beloved by many. It is no surprise that casual basketball shooter games are also a favorite of mobile gamers. Easy Basketball is a simple, free-play shooter game created using with Unity Game Engine, coded in C# and published on Google Play. 
+Basketball is a sport beloved by many. It is no surprise that casual basketball shooter games are also a favorite of mobile gamers. Easy Basketball is a simple, free-play shooter game. I designed the graphics in Illustrator and Photoshop and built the game using Unity Game Engine, coded in C# and published on Google Play. 
 
 ### Code Preview 
 
